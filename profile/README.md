@@ -107,3 +107,10 @@
 - ### Madness
 - ### Bobruisk
 - ### Parma
+
+
+# 🚧 Gamemodes
+- ### Deathmatch ✅
+- ### Team Deathmatch ✅
+- ### Capture the Flag ❌
+- ### Control Points ❌
