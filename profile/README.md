@@ -86,10 +86,13 @@
 |--------------|-----|
 | Shot effects      | 🛠️ |
 | Targeting system     | ✅ |
+| Damage     | ✅ |
 
 | Hulls          | Progress | Details|
 |--------------|-----|---------|
 | Load profiles      | ✅ |Includes hulls properties: hp, speed, etc.|
+| Dynamic Wheels      | ✅ |Suspension system for tracks|
+| Dynamic Tracks      | ❌ |Malleable tracks with the wheels|
 
 # 🚧 Maps
 
@@ -97,9 +100,10 @@
 - ### Crash ❌
 ## Subject to be added
 - ### Kungur
+- ### Polygon
+- ### Monte Carlo
 - ### Silence
 - ### Barda
 - ### Madness
-- ### Polygon
 - ### Bobruisk
 - ### Parma
