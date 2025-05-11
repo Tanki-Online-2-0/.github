@@ -37,7 +37,7 @@
 ### Supplies display ✅
 ### In-game shop ❌
 
-## Turrets
+## Turrets 2.0 Models
 | Turret     | M0  | M1  | M2  | M3  |
 |------------|----|----|----|----|
 | Smoky      | ✅ | ❌ | ✅ | ❌ |
@@ -51,7 +51,7 @@
 | Shaft      | ❌ | ❌ | ❌ | ❌ |
 | Smoky XT   | ❌ | ❌ | ❌ | ❌ |
 
-## Hulls
+## Hulls 2.0 Models
 | Hull       | M0  | M1  | M2  | M3  |
 |------------|----|----|----|----|
 | Hunter     | ❌ | ❌ | ❌ | ❌ |
@@ -80,7 +80,13 @@
 
 ### Load graphics settings ✅
 ### Load controls settings ✅
+### Load controls settings ✅
 ### Dynamic shadows cast on ground ❌
+---
+### All Turrets + Mechanics ✅
+### All Hulls ✅
+#### The 2.0 models missing are currently replaced by legacy skins
+---
 
 | Weapons          | Progress |
 |--------------|-----|
