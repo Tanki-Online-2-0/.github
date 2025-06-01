@@ -103,7 +103,7 @@
 # 🚧 Maps
 
 - ### Arena ✅
-- ### Crash ❌
+- ### Crash 🛠️
 ## Subject to be added
 - ### Kungur
 - ### Polygon
