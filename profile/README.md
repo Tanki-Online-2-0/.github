@@ -98,7 +98,7 @@
 |--------------|-----|---------|
 | Load profiles      | ✅ |Includes hulls properties: hp, speed, etc.|
 | Dynamic Wheels      | ✅ |Suspension system for tracks|
-| Dynamic Tracks      | ❌ |Malleable tracks with the wheels|
+| Dynamic Tracks      | ✅ |Malleable tracks with the wheels|
 
 # 🚧 Maps
 
