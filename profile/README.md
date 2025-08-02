@@ -40,27 +40,27 @@
 ## Turrets 2.0 Models
 | Turret     | M0  | M1  | M2  | M3  |
 |------------|----|----|----|----|
-| Smoky      | ✅ | ❌ | ✅ | ❌ |
-| Firebird   | ❌ | ❌ | ✅ | ❌ |
-| Twins      | ❌ | ❌ | ❌ | ❌ |
-| Railgun    | ❌ | ❌ | ❌ | ❌ |
-| Isida      | ❌ | ❌ | ❌ | ❌ |
+| Smoky      | ✅ | ❌ | ✅ | 🛠️ |
+| Firebird   | ❌ | ❌ | ✅ | 🛠️ |
+| Twins      | ❌ | ❌ | ❌ | 🛠️ |
+| Railgun    | ❌ | ❌ | ❌ | 🛠️ |
+| Isida      | ❌ | ❌ | ❌ | 🛠️ |
 | Thunder    | ✅ | ❌ | ❌ | ✅ |
-| Freeze     | ❌ | ❌ | ❌ | ❌ |
-| Ricochet   | ❌ | ❌ | ❌ | ❌ |
-| Shaft      | ❌ | ❌ | ❌ | ❌ |
-| Smoky XT   | ❌ | ❌ | ❌ | ❌ |
+| Freeze     | ❌ | ❌ | ❌ | 🛠️ |
+| Ricochet   | ❌ | ❌ | ❌ | 🛠️ |
+| Shaft      | ❌ | ❌ | ❌ | 🛠️ |
+| Smoky XT   | ❌ | ❌ | ❌ | 🛠️ |
 
 ## Hulls 2.0 Models
 | Hull       | M0  | M1  | M2  | M3  |
 |------------|----|----|----|----|
-| Hunter     | ❌ | ❌ | ❌ | ❌ |
+| Hunter     | ❌ | ❌ | ❌ | 🛠️ |
 | Wasp       | ✅ | ❌ | ✅ | 🛠️ |
-| Titan      | ✅ | ❌ | ❌ | ❌ |
-| Dictator   | ❌ | ❌ | ❌ | ❌ |
+| Titan      | ✅ | ❌ | ❌ | 🛠️ |
+| Dictator   | ❌ | ❌ | ❌ | 🛠️ |
 | Hornet     | 🛠️ | ❌ | ❌ | 🛠️ |
-| Viking     | ✅ | ✅ | ❌ | ❌ |
-| Mammoth    | ❌ | ❌ | ❌ | 🛠️ |
+| Viking     | ✅ | ✅ | ❌ | 🛠️ |
+| Mammoth    | ❌ | ❌ | ❌ | ✅ |
 
 # 🚧 Community
 
@@ -81,7 +81,7 @@
 ### Load graphics settings ✅
 ### Load controls settings ✅
 ### Load controls settings ✅
-### Dynamic shadows cast on ground ❌
+### Dynamic shadows cast on ground ✅
 ---
 ### All Turrets + Mechanics ✅
 ### All Hulls ✅
