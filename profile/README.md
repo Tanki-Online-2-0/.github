@@ -16,7 +16,7 @@
 | Tab          | Functionality | Details |
 |--------------|-----|------|
 | Profile      | 🛠️ |todo: Detailed statistics|
-| Contacts     | 🛠️ |todo: Display friends|
+| Contacts     | ✅ ||
 | Account      | ❌ |todo: Working options|
 | Referal      | ✅ ||
 | Setup        | 🛠️ |Graphics ✅ / Controls ✅ / Sounds ❌|
